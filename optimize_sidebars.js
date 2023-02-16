@@ -598,6 +598,10 @@ module.exports = {
               "components/connectors/out-of-the-box-connectors/aws-lambda/"
             ),
             docsLink(
+              "Blue Prism Connector",
+              "components/connectors/out-of-the-box-connectors/blueprism/"
+            ),
+            docsLink(
               "GitHub Webhook Connector",
               "components/connectors/out-of-the-box-connectors/github-webhook/"
             ),
