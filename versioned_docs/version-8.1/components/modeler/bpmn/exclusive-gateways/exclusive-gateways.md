@@ -17,7 +17,7 @@ If no condition is fulfilled, it takes the **default flow** of the gateway. If t
 An exclusive gateway can also be used to join multiple incoming flows together and improve the readability of the BPMN. A joining gateway has a pass-through semantic and doesn't merge the incoming concurrent flows like a parallel gateway.
 
 ## Conditions
-
+ggggg
 A `conditionExpression` defines when a flow is taken. It is a [boolean expression](/components/concepts/expressions.md#boolean-expressions) that can access the process instance variables and compare them with literals or other variables. The condition is fulfilled when the expression returns `true`.
 
 Multiple boolean values or comparisons can be combined as disjunction (`and`) or conjunction (`or`).
